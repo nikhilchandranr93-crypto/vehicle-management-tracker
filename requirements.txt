@@ -1,0 +1,5 @@
+# VehicleCare — Vehicle Management Tracker
+# Core application runs entirely on Python 3.8+ Standard Library
+# (tkinter, sqlite3, csv, shutil, datetime, unittest).
+#
+# No external pip dependencies are required for normal execution.
